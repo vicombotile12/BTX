@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="WeaponDescriptor" format=3 uid="uid://rd7vvm12ypff"]
+
+[ext_resource type="Script" uid="uid://clbk2sdysyb26" path="res://WeaponDescriptor.gd" id="1_nnr1w"]
+
+[resource]
+script = ExtResource("1_nnr1w")
+vHas_attack = true
+vFlavour_text = "t-t-t-t-t-t-test"
+vActive_cost = 2
+vDraw_cost = 2
+vName = "testcarrd"
+vBP_cost = 1
+metadata/_custom_type_script = "uid://clbk2sdysyb26"

@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bpv4rsk63kmxu"]
+
+[ext_resource type="Script" uid="uid://gjcg7arwl6yw" path="res://assets/scripts/player_rep.gd" id="1_icder"]
+
+[node name="PlayerRep" type="Node" unique_id=225548642]
+script = ExtResource("1_icder")
