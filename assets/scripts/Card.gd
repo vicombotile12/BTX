@@ -17,7 +17,7 @@ var card_opponent: Player = card_owner.opponent
 
 
 var flavour_text: String 
-var type: Globals.CardType
+var type: Global.CardType
 
 func _ready() -> void:
 	if descriptor:

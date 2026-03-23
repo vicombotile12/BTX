@@ -16,7 +16,7 @@ config/icon="res://assets/sprites/icon.svg"
 
 [autoload]
 
-Globals="*uid://c0awrj0utikmq"
+Global="*uid://c0awrj0utikmq"
 
 [physics]
 

@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="WeaponDescriptor" format=3 uid="uid://rd7vvm12ypff"]
 
-[ext_resource type="Script" uid="uid://clbk2sdysyb26" path="res://WeaponDescriptor.gd" id="1_nnr1w"]
+[ext_resource type="Script" uid="uid://clbk2sdysyb26" path="res://assets/scripts/WeaponDescriptor.gd" id="1_nnr1w"]
 
 [resource]
 script = ExtResource("1_nnr1w")
